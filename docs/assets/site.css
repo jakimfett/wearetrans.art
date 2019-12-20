@@ -82,12 +82,11 @@ article figure figcaption {
     margin-top: 1rem;
 }
 article figure figcaption:before {
-    content: '‒';
+    content: '⁓';
 }
 article nav {
     height: 3rem;
     line-height: 3rem;
-    margin-bottom: -3rem;
     padding: 0 1rem;
     opacity: 0.25;
     transition: opacity 300ms;
