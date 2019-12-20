@@ -52,8 +52,6 @@ main {
 }
 
 article {
-    background: #ffffff;
-    box-shadow: 0 0 2rem hsla(0, 0%, 0%, 0.1);
     align-content: center;
     display: grid;
     font-weight: 300;
